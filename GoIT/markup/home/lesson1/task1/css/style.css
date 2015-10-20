@@ -1,0 +1,36 @@
+/* Селектор класса "горизонтальная линия" */
+.l{
+	border-bottom: 1px solid grey;
+}
+
+/* Заголовок */
+h3 {
+	text-align: center;
+}
+
+/* параметры веб-страницы */
+body{
+	background-color: #ccc;
+	position: center;
+}
+
+/* Зона листика */
+#sheet{
+	width: 512px;
+	height: 751px;
+	margin: auto;
+	padding: 35px;
+	box-shadow: 0 0 10px rgba(0,0,0,1);
+	background-color: white;
+}
+
+/* Аватарка */
+#ava {
+	height: 135px;
+}
+
+/* Стандартный абзац */
+p{
+	margin: 5px;
+	padding: 5px;
+}
