@@ -1,3 +1,7 @@
+body{
+	background-color^ #ccc;
+}
+
 .HorLine{
 	border-bottom: 1px solid grey;
 }
