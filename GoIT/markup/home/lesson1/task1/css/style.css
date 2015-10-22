@@ -20,7 +20,7 @@ h3 {
 }
 
 #ava {
-	height: 135px;
+	height: 135px; margin: 10px auto; display: block;
 }
 
 p{
