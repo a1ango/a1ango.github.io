@@ -1,21 +1,11 @@
-/* Селектор класса "горизонтальная линия" */
-.l{
+.HorLine{
 	border-bottom: 1px solid grey;
 }
 
-/* Заголовок */
 h3 {
 	text-align: center;
 }
 
-/* параметры веб-страницы 
-body{
-	background-color: #ccc;
-	position: center;
-}
-*/
-
-/* Зона листика */
 #sheet{
 	width: 512px;
 	height: 751px;
@@ -25,12 +15,10 @@ body{
 	background-color: white;
 }
 
-/* Аватарка */
 #ava {
 	height: 135px;
 }
 
-/* Стандартный абзац */
 p{
 	margin: 5px;
 	padding: 5px;
